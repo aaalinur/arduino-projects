@@ -37,4 +37,4 @@ Below is the structured list of all projects included in this repository. Click 
 ## 📝 Author & License
 
 Created with ❤️ by **Alinur**  
-*Open-source and available under the [MIT License](LICENSE).*
+*Open-source and available under the [MIT License](https://opensource.org/licenses/MIT).*
